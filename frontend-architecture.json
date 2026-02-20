@@ -1,0 +1,24 @@
+{
+  "project": "ddsearch",
+  "description": "Search functionality project",
+  "lastUpdated": "2026-02-20",
+  "type": "javascript-search",
+  "visibility": "public",
+  "owner": "pm-agent",
+  
+  "techStack": {
+    "language": "JavaScript",
+    "purpose": "Search functionality"
+  },
+
+  "keyFeatures": [
+    "Search indexing",
+    "Query processing"
+  ],
+
+  "agentGuidance": {
+    "language": "JavaScript",
+    "type": "Search tool",
+    "noEmojis": true
+  }
+}
